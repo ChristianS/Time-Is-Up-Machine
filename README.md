@@ -1,9 +1,9 @@
 Time-Is-Up-Machine
 ==================
 
-Simple physical work / rest timer based on Arduino.
+Simple physical work / rest timer based on Arduino. Inspired by the Pomodoro Technique - work 25 minutes, take a 5 minute break.
 
-Build on Youth Science Hack Day Berlin 2014.
+Built on Youth Science Hack Day Berlin 2014.
 
 ![alt text](https://s3-eu-west-1.amazonaws.com/miscellaneous-pics/IMG_0279.jpg "Initial version of our prototype - experimenting with the tilt feature.")
 
