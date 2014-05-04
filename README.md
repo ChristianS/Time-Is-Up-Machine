@@ -39,3 +39,5 @@ Built on Youth Science Hack Day Berlin 2014.
 ![alt text](https://s3-eu-west-1.amazonaws.com/miscellaneous-pics/image_10.jpeg "Initial version of our prototype - experimenting with the tilt feature.")
 
 ![alt text](https://s3-eu-west-1.amazonaws.com/miscellaneous-pics/image.jpeg "Initial version of our prototype - experimenting with the tilt feature.")
+
+![alt text](https://s3-eu-west-1.amazonaws.com/miscellaneous-pics/IMG_2626.MOV "Initial version of our prototype - experimenting with the tilt feature.")
